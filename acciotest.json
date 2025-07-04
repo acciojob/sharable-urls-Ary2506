@@ -1,0 +1,4 @@
+{
+    "testRepo": "sharable-urls-solution",
+    "pathToFile": "cypress/integration/tests/test.spec.js"
+}
